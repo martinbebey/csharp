@@ -1,0 +1,6 @@
+c:\users\administrateur\documents\visual studio 2013\Projects\Farmer's Problem\Farmer's Problem\bin\Debug\Farmer's Problem.exe.config
+c:\users\administrateur\documents\visual studio 2013\Projects\Farmer's Problem\Farmer's Problem\bin\Debug\Farmer's Problem.exe
+c:\users\administrateur\documents\visual studio 2013\Projects\Farmer's Problem\Farmer's Problem\bin\Debug\Farmer's Problem.pdb
+c:\users\administrateur\documents\visual studio 2013\Projects\Farmer's Problem\Farmer's Problem\obj\Debug\Farmer's Problem.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2013\Projects\Farmer's Problem\Farmer's Problem\obj\Debug\Farmer's Problem.exe
+c:\users\administrateur\documents\visual studio 2013\Projects\Farmer's Problem\Farmer's Problem\obj\Debug\Farmer's Problem.pdb

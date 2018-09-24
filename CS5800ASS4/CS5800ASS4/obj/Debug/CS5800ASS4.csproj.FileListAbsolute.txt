@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\CS5800ASS4\CS5800ASS4\bin\Debug\CS5800ASS4.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\CS5800ASS4\CS5800ASS4\obj\Debug\CS5800ASS4.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\CS5800ASS4\CS5800ASS4\bin\Debug\CS5800ASS4.exe
+c:\users\martin\documents\visual studio 2013\Projects\CS5800ASS4\CS5800ASS4\bin\Debug\CS5800ASS4.pdb
+c:\users\martin\documents\visual studio 2013\Projects\CS5800ASS4\CS5800ASS4\obj\Debug\CS5800ASS4.exe
+c:\users\martin\documents\visual studio 2013\Projects\CS5800ASS4\CS5800ASS4\obj\Debug\CS5800ASS4.pdb

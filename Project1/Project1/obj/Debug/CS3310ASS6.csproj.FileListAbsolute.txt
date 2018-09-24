@@ -1,0 +1,13 @@
+c:\users\administrateur\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\CS3310ASS6.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.exe
+c:\users\administrateur\documents\visual studio 2013\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+c:\users\administrateur\documents\visual studio 2013\Projects\Project1\Project1\bin\Debug\Project1.exe
+c:\users\administrateur\documents\visual studio 2013\Projects\Project1\Project1\bin\Debug\Project1.pdb
+c:\users\administrateur\documents\visual studio 2013\Projects\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\obj\Debug\CS3310ASS6.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project1\Project1\bin\Debug\MySql.Data.dll

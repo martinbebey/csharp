@@ -1,0 +1,5 @@
+4 3 3
+1BBr		
+	2aar	1bbr
+	3aar	1bbr
+3BBr	3aar	3bbr

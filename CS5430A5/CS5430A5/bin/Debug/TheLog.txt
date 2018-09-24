@@ -1,0 +1,110 @@
+FILE STATUS > TheLog FILE opened
+Connecting to ORACLE...
+OK, the DB Connection is OPENED
+
+
+SQL (2): INSERT INTO Product (ProductID, ProductName, Price, SupplierID) VALUES ('10025', 'IPOD', '149.99', 'S500');
+
+ERROR on 2, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (3): INSERT INTO Product (ProductID, ProductName, Price, SupplierID) VALUES ('10025', 'IPAD', '499.99', 'S500');
+
+ERROR on 3, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (4): INSERT INTO Product (ProductID, ProductName, Price, SupplierID) VALUES ('10026', 'ZUNE', '199.95', 'S500');
+
+ERROR on 4, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (5): INSERT INTO Product (ProductID, ProductName, Price, SupplierID) VALUES ('10027', 'GPS', '', '399.99');
+
+ERROR on 5, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (6): UPDATE PRODUCT SET QuanInStock = QuanInStock + 30 WHERE ProductID = 10010;
+
+ERROR on 6, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (7): UPDATE PRODUCT SET QuanInStock = QuanInStock + 10 WHERE ProductID = 10010;
+
+ERROR on 7, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (8): UPDATE PRODUCT SET QuanInStock = QuanInStock + 17 WHERE ProductID = 10011;
+
+ERROR on 8, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (9): UPDATE PRODUCT SET QuanInStock = QuanInStock + 5 WHERE ProductID = 10025;
+
+ERROR on 9, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (11): DELETE * FROM Product WHERE ProductID =  10018;
+
+ERROR on 11, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00903: invalid table name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (12): DELETE * FROM Product WHERE ProductID =  10019;
+
+ERROR on 12, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00903: invalid table name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (13): DELETE * FROM Product WHERE ProductID =  10016;
+
+ERROR on 13, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00903: invalid table name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (14): DELETE * FROM Product WHERE ProductID =  10025;
+
+ERROR on 14, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00903: invalid table name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (15): DELETE * FROM Product WHERE ProductID =  10010;
+
+ERROR on 15, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00903: invalid table name    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (16): INSERT INTO Product (ProductID, ProductName, Price, SupplierID) VALUES ('10010', 'DELL', '599.50', 'S540');
+
+ERROR on 16, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+
+SQL (17): UPDATE PRODUCT SET QuanInStock = QuanInStock + 14 WHERE ProductID = 10010;
+
+ERROR on 17, QUERY not done
+Oracle.DataAccess.Client.OracleException ORA-00911: invalid character    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at DBAccess.ChangeData(String iduQuery, String queryType, Int32 transNum, TheLog theLog, OracleConnection connection) in c:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5430A5\CS5430A5\DBAccess.cs:line 109
+FILE STATUS > TheLog FILE closed

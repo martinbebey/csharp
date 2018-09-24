@@ -1,0 +1,12 @@
+c:\users\administrateur\documents\visual studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\bin\Debug\CS5310ASS4Q1.exe.config
+c:\users\administrateur\documents\visual studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\obj\Debug\CS5310ASS4Q1.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\bin\Debug\CS5310ASS4Q1.exe
+c:\users\administrateur\documents\visual studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\bin\Debug\CS5310ASS4Q1.pdb
+c:\users\administrateur\documents\visual studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\obj\Debug\CS5310ASS4Q1.exe
+c:\users\administrateur\documents\visual studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\obj\Debug\CS5310ASS4Q1.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\bin\Debug\CS5310ASS4Q1.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\obj\Debug\CS5310ASS4Q1.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\obj\Debug\CS5310ASS4Q1.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\bin\Debug\CS5310ASS4Q1.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\bin\Debug\CS5310ASS4Q1.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5310ASS4Q1\CS5310ASS4Q1\obj\Debug\CS5310ASS4Q1.csprojResolveAssemblyReference.cache

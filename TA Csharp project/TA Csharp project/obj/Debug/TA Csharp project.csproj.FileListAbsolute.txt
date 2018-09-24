@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\TA Csharp project\TA Csharp project\bin\Debug\TA Csharp project.exe.config
+c:\users\martin\documents\visual studio 2013\Projects\TA Csharp project\TA Csharp project\bin\Debug\TA Csharp project.exe
+c:\users\martin\documents\visual studio 2013\Projects\TA Csharp project\TA Csharp project\bin\Debug\TA Csharp project.pdb
+c:\users\martin\documents\visual studio 2013\Projects\TA Csharp project\TA Csharp project\obj\Debug\TA Csharp project.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2013\Projects\TA Csharp project\TA Csharp project\obj\Debug\TA Csharp project.exe
+c:\users\martin\documents\visual studio 2013\Projects\TA Csharp project\TA Csharp project\obj\Debug\TA Csharp project.pdb

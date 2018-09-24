@@ -1,0 +1,18 @@
+﻿Build started 2/4/2018 10:39:34 PM.
+     1>Project "C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5541RA2\CS5541RA2\CS5541RA2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\..\..\About Computer Science\Western Michigan Courses\Computer Science\CS 5541 100(46397 R) - Computer Systems\Return\Assignments\Assignment 2\A2 attached files Jul 22, 2016 758 AM\bombs\bombs\bomb0\bomb.c"
+         bomb.c
+     1>c1 : fatal error C1001: An internal error has occurred in the compiler.
+         (compiler file 'msc1.cpp', line 1325)
+          To work around this problem, try simplifying or changing the program near the locations listed above.
+         Please choose the Technical Support command on the Visual C++ 
+          Help menu, or open the Technical Support help file for more information
+         INTERNAL COMPILER ERROR in 'C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe'
+             Please choose the Technical Support command on the Visual C++
+             Help menu, or open the Technical Support help file for more information
+     1>Done Building Project "C:\Users\Martin\Documents\Visual Studio 2013\Projects\CS5541RA2\CS5541RA2\CS5541RA2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.32

@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2013\Projects\ScratchPaper\ScratchPaper\bin\Debug\ScratchPaper.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ScratchPaper\ScratchPaper\bin\Debug\ScratchPaper.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ScratchPaper\ScratchPaper\bin\Debug\ScratchPaper.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ScratchPaper\ScratchPaper\obj\Debug\ScratchPaper.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ScratchPaper\ScratchPaper\obj\Debug\ScratchPaper.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ScratchPaper\ScratchPaper\obj\Debug\ScratchPaper.pdb

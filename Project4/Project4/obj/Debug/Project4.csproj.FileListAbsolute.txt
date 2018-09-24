@@ -1,0 +1,9 @@
+c:\users\administrateur\documents\visual studio 2013\Projects\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Project4\Project4\bin\Debug\Project4.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Project4\Project4\bin\Debug\Project4.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Project4\Project4\obj\Debug\Project4.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2013\Projects\Project4\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project4\Project4\bin\Debug\Project4.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project4\Project4\obj\Debug\Project4.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Project4\Project4\obj\Debug\Project4.pdb
