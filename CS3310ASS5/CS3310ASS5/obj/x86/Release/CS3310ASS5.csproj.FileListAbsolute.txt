@@ -1,0 +1,4 @@
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS5\CS3310ASS5\bin\Release\CS3310ASS5.exe
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS5\CS3310ASS5\bin\Release\CS3310ASS5.pdb
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS5\CS3310ASS5\obj\x86\Release\CS3310ASS5.exe
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS5\CS3310ASS5\obj\x86\Release\CS3310ASS5.pdb

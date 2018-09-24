@@ -1,0 +1,15 @@
+C:\Users\EDEN\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.exe
+C:\Users\EDEN\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.pdb
+C:\Users\EDEN\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EDEN\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.exe
+C:\Users\EDEN\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\EDEN\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\bin\Debug\3380 lab1.exe
+C:\Users\EDEN\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\bin\Debug\3380 lab1.pdb
+C:\Users\EDEN\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EDEN\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\obj\x86\Debug\3380 lab1.exe
+C:\Users\EDEN\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\obj\x86\Debug\3380 lab1.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\obj\x86\Debug\3380 lab1.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\obj\x86\Debug\3380 lab1.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\bin\Debug\3380 lab1.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\bin\Debug\3380 lab1.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\3380 lab1\3380 lab1\obj\x86\Debug\3380 lab1.csprojResolveAssemblyReference.cache

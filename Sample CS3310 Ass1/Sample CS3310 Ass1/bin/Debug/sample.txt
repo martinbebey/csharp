@@ -1,0 +1,1 @@
+INSERT INTO `Country` VALUES (05,'CHN','China','Asia','Eastern Asia',9572900,-1523,1277558000,71.4,982268,917719,'Zhongquo','PeoplesRepublic','Jiang Zemin',1891,'CN');

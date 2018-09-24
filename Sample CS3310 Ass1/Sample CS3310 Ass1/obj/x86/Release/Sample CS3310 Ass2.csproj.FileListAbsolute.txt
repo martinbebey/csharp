@@ -1,0 +1,4 @@
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Sample CS3310 Ass1\Sample CS3310 Ass1\bin\Release\Sample CS3310 Ass1.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Sample CS3310 Ass1\Sample CS3310 Ass1\bin\Release\Sample CS3310 Ass1.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Sample CS3310 Ass1\Sample CS3310 Ass1\obj\x86\Release\Sample CS3310 Ass1.exe
+C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Sample CS3310 Ass1\Sample CS3310 Ass1\obj\x86\Release\Sample CS3310 Ass1.pdb

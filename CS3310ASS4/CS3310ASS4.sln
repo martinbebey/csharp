@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS3310ASS4", "CS3310ASS4\CS3310ASS4.csproj", "{A604B1A3-D61C-4040-B809-9C498DD5CDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A604B1A3-D61C-4040-B809-9C498DD5CDEE}.Debug|x86.ActiveCfg = Debug|x86
+		{A604B1A3-D61C-4040-B809-9C498DD5CDEE}.Debug|x86.Build.0 = Debug|x86
+		{A604B1A3-D61C-4040-B809-9C498DD5CDEE}.Release|x86.ActiveCfg = Release|x86
+		{A604B1A3-D61C-4040-B809-9C498DD5CDEE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

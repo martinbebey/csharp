@@ -1,0 +1,5 @@
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS3\CS3310ASS3\bin\Debug\CS3310ASS3.exe
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS3\CS3310ASS3\bin\Debug\CS3310ASS3.pdb
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS3\CS3310ASS3\obj\x86\Debug\CS3310ASS3.exe
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS3\CS3310ASS3\obj\x86\Debug\CS3310ASS3.pdb
+C:\Users\Administrateur\documents\visual studio 2010\Projects\CS3310ASS3\CS3310ASS3\obj\x86\Debug\CS3310ASS3.csprojResolveAssemblyReference.cache

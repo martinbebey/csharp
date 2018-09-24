@@ -1,0 +1,9 @@
+C:\Users\Martin\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.exe
+C:\Users\Martin\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.pdb
+C:\Users\Martin\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.exe
+C:\Users\Martin\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\TurringMachine\TurringMachine\bin\Debug\TurringMachine.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\TurringMachine\TurringMachine\bin\Debug\TurringMachine.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\TurringMachine\TurringMachine\obj\x86\Debug\TurringMachine.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\TurringMachine\TurringMachine\obj\x86\Debug\TurringMachine.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\TurringMachine\TurringMachine\obj\x86\Debug\TurringMachine.pdb

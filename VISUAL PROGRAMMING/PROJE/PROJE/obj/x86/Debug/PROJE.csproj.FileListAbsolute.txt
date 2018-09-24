@@ -1,0 +1,62 @@
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmchooseoperation.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlevels.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlevel2.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmexampleofgames.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmquiz.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmguessnumber.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmintelligencecube.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlogin.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmcategory.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmgames.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmnewmember.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmexampleofintelligence.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmarithmeticaloperations.resources
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.exe
+C:\Users\Asus\Desktop\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.pdb
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.exe
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.pdb
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmchooseoperation.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlevels.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlevel2.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmexampleofgames.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmquiz.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmguessnumber.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmintelligencecube.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlogin.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmcategory.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmgames.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmnewmember.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmexampleofintelligence.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmarithmeticaloperations.resources
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus\Desktop\üniversite\görsel\proje son\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmchooseoperation.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlevels.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlevel2.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmexampleofgames.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmquiz.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmguessnumber.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmintelligencecube.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmlogin.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmcategory.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmgames.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmnewmember.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmexampleofintelligence.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\WindowsFormsApplication1.frmarithmeticaloperations.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\VISUAL PROGRAMMING\PROJE\PROJE\obj\x86\Debug\PROJE.csproj.GenerateResource.Cache

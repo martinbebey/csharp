@@ -1,0 +1,390 @@
+FILE STATUS > TheLog FILE opened
+FILE STATUS > CountryData FILE opened
+CODE STATUS > Setup started
+FILE STATUS > RawDataA2 FILE opened
+FILE STATUS > RawDataA2 FILE closed
+CODE STATUS > Setup finsished - 25 countries processed
+CODE STATUS > Snapshot started
+
+Header Record: 25
+
+ [RRN] ID  CDE NAME-------------- CONTINENT----  ------AREA ---POPULATION LIFE
+ [001] 01  GRC Greece             Europe          1,316,260   010,545,700 78.4
+ [002] 02  EGY Egypt              Africa         10,014,490   068,470,000 63.3
+ [003] EMPTY                                           
+ [004] EMPTY                                           
+ [005] 05  CHN China              Asia           95,729,001   277,558,000 71.4
+ [006] EMPTY                                           
+ [007] 07  AUS Australia          Oceania        77,412,200   018,886,000 79.8
+ [008] 08  USA United States      North America  93,635,200   278,357,000 77.1
+ [009] 09  YUG Yugoslavia         Europe          1,021,730   010,640,000 72.4
+ [010] 10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+ [011] 11  TUR Turkey             Asia            7,748,150   066,591,000 71.0
+ [012] EMPTY                                           
+ [013] 13  PSE Palestine          Asia               62,570   003,101,000 71.4
+ [014] 14  MEX Mexico             North America  19,582,010   098,881,000 71.5
+ [015] 15  HUN Hungary            Europe            930,300   010,043,200 71.4
+ [016] 16  ZWE Zimbabwe           Africa          3,907,570   011,669,000 37.8
+ [017] 17  WLF Wallis and Futuna  Oceania             2,000   000,015,000 00.0
+ [018] EMPTY                                           
+ [019] 19  FRA France             Europe          5,515,000   059,225,700 78.8
+ [020] EMPTY                                           
+ [021] 21  QAT Qatar              Asia              110,000   000,599,000 72.4
+ [022] 22  OMN Oman               Asia            3,095,000   002,542,000 71.8
+ [023] EMPTY                                           
+ [024] 24  DOM Dominican Republi  North America     485,110   008,495,000 73.2
+ [025] 25  NGA Nigeria            Africa          9,237,680   111,506,000 51.6
+ [026] 26  JOR Jordan             Asia              889,460   005,083,000 77.4
+ [027] EMPTY                                           
+ [028] 28  KEN Kenya              Africa          5,803,670   030,080,000 48.0
+ [029] 29  VEN Venezuela          South America   9,120,500   024,170,000 73.1
+ [030] 30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+ [031] 31  SWE Sweden             Europe          4,499,640   008,861,400 79.6
+ [032] EMPTY                                           
+ [033] EMPTY                                           
+ [034] 34  LIE Liechtenstein      Europe              1,600   000,032,300 78.8
+ [035] 35  IND India              Asia           32,872,631   013,662,000 62.5
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+CODE STATUS > Snapshot finished
+CODE STATUS > UserApp started
+FILE STATUS > TransData5 FILE opened
+
+SA
+   ID  CDE NAME-------------- CONTINENT----  ------AREA ---POPULATION LIFE
+   01  GRC Greece             Europe          1,316,260   010,545,700 78.4
+   02  EGY Egypt              Africa         10,014,490   068,470,000 63.3
+   05  CHN China              Asia           95,729,001   277,558,000 71.4
+   07  AUS Australia          Oceania        77,412,200   018,886,000 79.8
+   08  USA United States      North America  93,635,200   278,357,000 77.1
+   09  YUG Yugoslavia         Europe          1,021,730   010,640,000 72.4
+   10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+   11  TUR Turkey             Asia            7,748,150   066,591,000 71.0
+   13  PSE Palestine          Asia               62,570   003,101,000 71.4
+   14  MEX Mexico             North America  19,582,010   098,881,000 71.5
+   15  HUN Hungary            Europe            930,300   010,043,200 71.4
+   16  ZWE Zimbabwe           Africa          3,907,570   011,669,000 37.8
+   17  WLF Wallis and Futuna  Oceania             2,000   000,015,000 00.0
+   19  FRA France             Europe          5,515,000   059,225,700 78.8
+   21  QAT Qatar              Asia              110,000   000,599,000 72.4
+   22  OMN Oman               Asia            3,095,000   002,542,000 71.8
+   24  DOM Dominican Republi  North America     485,110   008,495,000 73.2
+   25  NGA Nigeria            Africa          9,237,680   111,506,000 51.6
+   26  JOR Jordan             Asia              889,460   005,083,000 77.4
+   28  KEN Kenya              Africa          5,803,670   030,080,000 48.0
+   29  VEN Venezuela          South America   9,120,500   024,170,000 73.1
+   30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+   31  SWE Sweden             Europe          4,499,640   008,861,400 79.6
+   34  LIE Liechtenstein      Europe              1,600   000,032,300 78.8
+   35  IND India              Asia           32,872,631   013,662,000 62.5
+   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SI 35
+	OK, country found					35  IND India              Asia           32,872,631    13,662,000 62.5
+
+SI 27
+	SORRY, no country with that id
+
+SI 1
+	OK, country found					01  GRC Greece             Europe          1,316,260    10,545,700 78.4
+
+SI 999999999
+	SORRY, no country with that id
+
+SI 10
+	OK, country found					10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+
+SI 33
+	SORRY, no country with that id
+
+SI 36
+	SORRY, no country with that id
+
+SI 0
+	SORRY, no country with that id
+
+SI 001
+	OK, country found					01  GRC Greece             Europe          1,316,260    10,545,700 78.4
+
+SI 99
+	SORRY, no country with that id
+
+SI 24
+	OK, country found					24  DOM Dominican Republi  North America     485,110     8,495,000 73.2
+
+SA
+   ID  CDE NAME-------------- CONTINENT----  ------AREA ---POPULATION LIFE
+   01  GRC Greece             Europe          1,316,260   010,545,700 78.4
+   02  EGY Egypt              Africa         10,014,490   068,470,000 63.3
+   05  CHN China              Asia           95,729,001   277,558,000 71.4
+   07  AUS Australia          Oceania        77,412,200   018,886,000 79.8
+   08  USA United States      North America  93,635,200   278,357,000 77.1
+   09  YUG Yugoslavia         Europe          1,021,730   010,640,000 72.4
+   10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+   11  TUR Turkey             Asia            7,748,150   066,591,000 71.0
+   13  PSE Palestine          Asia               62,570   003,101,000 71.4
+   14  MEX Mexico             North America  19,582,010   098,881,000 71.5
+   15  HUN Hungary            Europe            930,300   010,043,200 71.4
+   16  ZWE Zimbabwe           Africa          3,907,570   011,669,000 37.8
+   17  WLF Wallis and Futuna  Oceania             2,000   000,015,000 00.0
+   19  FRA France             Europe          5,515,000   059,225,700 78.8
+   21  QAT Qatar              Asia              110,000   000,599,000 72.4
+   22  OMN Oman               Asia            3,095,000   002,542,000 71.8
+   24  DOM Dominican Republi  North America     485,110   008,495,000 73.2
+   25  NGA Nigeria            Africa          9,237,680   111,506,000 51.6
+   26  JOR Jordan             Asia              889,460   005,083,000 77.4
+   28  KEN Kenya              Africa          5,803,670   030,080,000 48.0
+   29  VEN Venezuela          South America   9,120,500   024,170,000 73.1
+   30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+   31  SWE Sweden             Europe          4,499,640   008,861,400 79.6
+   34  LIE Liechtenstein      Europe              1,600   000,032,300 78.8
+   35  IND India              Asia           32,872,631   013,662,000 62.5
+   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FILE STATUS > TransData5 FILE closed
+CODE STATUS > UserApp finished - 13 transactions processed
+CODE STATUS > UserApp started
+FILE STATUS > TransData6 FILE opened
+
+FILE STATUS > TransData6 FILE closed
+CODE STATUS > UserApp finished - 0 transactions processed
+CODE STATUS > UserApp started
+FILE STATUS > TransData7 FILE opened
+
+SA
+   ID  CDE NAME-------------- CONTINENT----  ------AREA ---POPULATION LIFE
+   01  GRC Greece             Europe          1,316,260   010,545,700 78.4
+   02  EGY Egypt              Africa         10,014,490   068,470,000 63.3
+   05  CHN China              Asia           95,729,001   277,558,000 71.4
+   07  AUS Australia          Oceania        77,412,200   018,886,000 79.8
+   08  USA United States      North America  93,635,200   278,357,000 77.1
+   09  YUG Yugoslavia         Europe          1,021,730   010,640,000 72.4
+   10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+   11  TUR Turkey             Asia            7,748,150   066,591,000 71.0
+   13  PSE Palestine          Asia               62,570   003,101,000 71.4
+   14  MEX Mexico             North America  19,582,010   098,881,000 71.5
+   15  HUN Hungary            Europe            930,300   010,043,200 71.4
+   16  ZWE Zimbabwe           Africa          3,907,570   011,669,000 37.8
+   17  WLF Wallis and Futuna  Oceania             2,000   000,015,000 00.0
+   19  FRA France             Europe          5,515,000   059,225,700 78.8
+   21  QAT Qatar              Asia              110,000   000,599,000 72.4
+   22  OMN Oman               Asia            3,095,000   002,542,000 71.8
+   24  DOM Dominican Republi  North America     485,110   008,495,000 73.2
+   25  NGA Nigeria            Africa          9,237,680   111,506,000 51.6
+   26  JOR Jordan             Asia              889,460   005,083,000 77.4
+   28  KEN Kenya              Africa          5,803,670   030,080,000 48.0
+   29  VEN Venezuela          South America   9,120,500   024,170,000 73.1
+   30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+   31  SWE Sweden             Europe          4,499,640   008,861,400 79.6
+   34  LIE Liechtenstein      Europe              1,600   000,032,300 78.8
+   35  IND India              Asia           32,872,631   013,662,000 62.5
+   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SI 8
+	OK, country found					08  USA United States      North America  93,635,200   278,357,000 77.1
+
+SI 23
+	SORRY, no country with that id
+
+DI 15
+	OK, country deleted					15  HUN Hungary            Europe            930,300    10,043,200 71.4
+
+DI 5
+	OK, country deleted					05  CHN China              Asia           95,729,001   277,558,000 71.4
+
+DI 14
+	OK, country deleted					14  MEX Mexico             North America  19,582,010    98,881,000 71.5
+
+DI 15
+	SORRY, no country with that id
+
+SI 5
+	SORRY, no country with that id
+
+SI 14
+	SORRY, no country with that id
+
+SI 15
+	SORRY, no country with that id
+
+DI 15
+	SORRY, no country with that id
+
+DI 4
+	SORRY, no country with that id
+
+DI 27
+	SORRY, no country with that id
+
+DI 0
+	SORRY, no country with that id
+
+DI 999999999
+	SORRY, no country with that id
+
+IN 4 ARG Argentina South America 2780400 37032000 75.1
+	OK, country inserted
+
+SI 4
+	OK, country found					04  ARG Argentina          South America  27,804,000    37,032,000 75.1
+
+IN 37 JPN Japan Asia 377829 126714000 80.7
+	OK, country inserted
+
+IN 27 JAM Jamaica North America 10990 2583000 75.2
+	OK, country inserted
+
+IN 15 CUB Cuba North America 110861 11201000 76.2
+	OK, country inserted
+
+IN 05 AUT Austria Europe 83859 8091800 77.7
+	OK, country inserted
+
+SI 15
+	OK, country found					15  CUB Cuba               North America   1,108,610    11,201,000 76.2
+
+DI 15
+	OK, country deleted					15  CUB Cuba               North America   1,108,610    11,201,000 76.2
+
+DI 27
+	OK, country deleted					27  JAM Jamaica            North America     109,900     2,583,000 75.2
+
+DI 1
+	OK, country deleted					01  GRC Greece             Europe          1,316,260    10,545,700 78.4
+
+DI 35
+	OK, country deleted					35  IND India              Asia           32,872,631    13,662,000 62.5
+
+IN 15 SGS South Georgia and the South Sandwich Islands Antarctica 3903 0 0
+	OK, country inserted
+
+IN 20 HMD Heard Island and McDonald Islands Antarctica 359 0 0
+	OK, country inserted
+
+IN 40 DEU Germany Europe 357022 82164700 77.4
+	OK, country inserted
+
+SI 15
+	OK, country found					15  SGS South Georgia and  Antarctica         39,030             0 00.0
+
+SI 35
+	SORRY, no country with that id
+
+SI 1
+	SORRY, no country with that id
+
+SI 20
+	OK, country found					20  HMD Heard Island and   Antarctica          3,590             0 00.0
+
+SI 40
+	OK, country found					40  DEU Germany            Europe          3,570,220    82,164,700 77.4
+
+SI 5
+	OK, country found					05  AUT Austria            Europe            838,590     8,091,800 77.7
+
+SI 37
+	OK, country found					37  JPN Japan              Asia            3,778,290   126,714,000 80.7
+
+SI 27
+	SORRY, no country with that id
+
+SI 36
+	SORRY, no country with that id
+
+SI 99
+	SORRY, no country with that id
+
+SI 41
+	SORRY, no country with that id
+
+SI 0
+	SORRY, no country with that id
+
+SI 30
+	OK, country found					30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+
+SI 28
+	OK, country found					28  KEN Kenya              Africa          5,803,670    30,080,000 48.0
+
+SA
+   ID  CDE NAME-------------- CONTINENT----  ------AREA ---POPULATION LIFE
+   02  EGY Egypt              Africa         10,014,490   068,470,000 63.3
+   04  ARG Argentina          South America  27,804,000   037,032,000 75.1
+   05  AUT Austria            Europe            838,590   008,091,800 77.7
+   07  AUS Australia          Oceania        77,412,200   018,886,000 79.8
+   08  USA United States      North America  93,635,200   278,357,000 77.1
+   09  YUG Yugoslavia         Europe          1,021,730   010,640,000 72.4
+   10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+   11  TUR Turkey             Asia            7,748,150   066,591,000 71.0
+   13  PSE Palestine          Asia               62,570   003,101,000 71.4
+   15  SGS South Georgia and  Antarctica         39,030   000,000,000 00.0
+   16  ZWE Zimbabwe           Africa          3,907,570   011,669,000 37.8
+   17  WLF Wallis and Futuna  Oceania             2,000   000,015,000 00.0
+   19  FRA France             Europe          5,515,000   059,225,700 78.8
+   20  HMD Heard Island and   Antarctica          3,590   000,000,000 00.0
+   21  QAT Qatar              Asia              110,000   000,599,000 72.4
+   22  OMN Oman               Asia            3,095,000   002,542,000 71.8
+   24  DOM Dominican Republi  North America     485,110   008,495,000 73.2
+   25  NGA Nigeria            Africa          9,237,680   111,506,000 51.6
+   26  JOR Jordan             Asia              889,460   005,083,000 77.4
+   28  KEN Kenya              Africa          5,803,670   030,080,000 48.0
+   29  VEN Venezuela          South America   9,120,500   024,170,000 73.1
+   30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+   31  SWE Sweden             Europe          4,499,640   008,861,400 79.6
+   34  LIE Liechtenstein      Europe              1,600   000,032,300 78.8
+   37  JPN Japan              Asia            3,778,290   126,714,000 80.7
+   40  DEU Germany            Europe          3,570,220   082,164,700 77.4
+   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FILE STATUS > TransData7 FILE closed
+CODE STATUS > UserApp finished - 44 transactions processed
+CODE STATUS > Snapshot started
+
+Header Record: 26
+
+ [RRN] ID  CDE NAME-------------- CONTINENT----  ------AREA ---POPULATION LIFE
+ [001] EMPTY                                           
+ [002] 02  EGY Egypt              Africa         10,014,490   068,470,000 63.3
+ [003] EMPTY                                           
+ [004] 04  ARG Argentina          South America  27,804,000   037,032,000 75.1
+ [005] 05  AUT Austria            Europe            838,590   008,091,800 77.7
+ [006] EMPTY                                           
+ [007] 07  AUS Australia          Oceania        77,412,200   018,886,000 79.8
+ [008] 08  USA United States      North America  93,635,200   278,357,000 77.1
+ [009] 09  YUG Yugoslavia         Europe          1,021,730   010,640,000 72.4
+ [010] 10  BRA Brazil             South America  85,474,030   170,115,000 62.9
+ [011] 11  TUR Turkey             Asia            7,748,150   066,591,000 71.0
+ [012] EMPTY                                           
+ [013] 13  PSE Palestine          Asia               62,570   003,101,000 71.4
+ [014] EMPTY                                           
+ [015] 15  SGS South Georgia and  Antarctica         39,030   000,000,000 00.0
+ [016] 16  ZWE Zimbabwe           Africa          3,907,570   011,669,000 37.8
+ [017] 17  WLF Wallis and Futuna  Oceania             2,000   000,015,000 00.0
+ [018] EMPTY                                           
+ [019] 19  FRA France             Europe          5,515,000   059,225,700 78.8
+ [020] 20  HMD Heard Island and   Antarctica          3,590   000,000,000 00.0
+ [021] 21  QAT Qatar              Asia              110,000   000,599,000 72.4
+ [022] 22  OMN Oman               Asia            3,095,000   002,542,000 71.8
+ [023] EMPTY                                           
+ [024] 24  DOM Dominican Republi  North America     485,110   008,495,000 73.2
+ [025] 25  NGA Nigeria            Africa          9,237,680   111,506,000 51.6
+ [026] 26  JOR Jordan             Asia              889,460   005,083,000 77.4
+ [027] EMPTY                                           
+ [028] 28  KEN Kenya              Africa          5,803,670   030,080,000 48.0
+ [029] 29  VEN Venezuela          South America   9,120,500   024,170,000 73.1
+ [030] 30  RUS Russian Federatio  Europe        170,754,000   146,934,000 67.2
+ [031] 31  SWE Sweden             Europe          4,499,640   008,861,400 79.6
+ [032] EMPTY                                           
+ [033] EMPTY                                           
+ [034] 34  LIE Liechtenstein      Europe              1,600   000,032,300 78.8
+ [035] EMPTY                                           
+ [036] EMPTY                                           
+ [037] 37  JPN Japan              Asia            3,778,290   126,714,000 80.7
+ [038] EMPTY                                           
+ [039] EMPTY                                           
+ [040] 40  DEU Germany            Europe          3,570,220   082,164,700 77.4
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FILE STATUS > CountryData FILE closed
+CODE STATUS > Snapshot finished
+FILE STATUS > TheLog FILE closed
